@@ -59,7 +59,11 @@ Giấy phép
    Động cơ servo <projects/servo-motor>
    Cảm biến màu sắc <projects/color-sensor>
    Cảm biến mưa <projects/rain-sensor>
+<<<<<<< HEAD
 
+=======
+   Ma trận phím 4x4 <projects/keypad4x4.rst>
+>>>>>>> upstream/master
 .. toctree::
    :caption: API
    :maxdepth: 1
